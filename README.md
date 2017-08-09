@@ -1,6 +1,8 @@
-# latexmk
+# paperist/latexmk
 
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Docker Automated build](https://img.shields.io/docker/automated/paperist/latexmk.svg)](https://hub.docker.com/r/paperist/latexmk/)
+[![Docker Image Size](https://images.microbadger.com/badges/image/paperist/latexmk.svg)](https://microbadger.com/images/paperist/latexmk "Get your own image badge on microbadger.com")
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg)](https://github.com/RichardLitt/standard-readme)
 
 > Latexmk Docker image for [whalebrew]
 
